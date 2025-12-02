@@ -43,7 +43,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/thenhana2910/thenhana2910/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
 ---
 
 ## 📂 Featured Projects
