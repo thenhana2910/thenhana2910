@@ -1,3 +1,10 @@
+<h1 align="center">
+  <span style="color:#00eaff; text-shadow: 0 0 10px #00eaff, 0 0 20px #00eaff;">
+    🚀 Thế Nhân — Developer
+  </span>
+</h1>
+
+
 <h1 align="center">👋 Hi, I'm <strong>Thế Nhân</strong></h1>
 <h3 align="center">🚀 Developer trẻ – đang xây dựng kỹ năng từng ngày</h3>
 
