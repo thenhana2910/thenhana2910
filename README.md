@@ -1,9 +1,3 @@
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
-
-
-
 <h1 align="center">👋 Hi, I'm <strong>Thế Nhân</strong></h1>
 <h3 align="center">🚀 Developer trẻ – đang xây dựng kỹ năng từng ngày</h3>
 
@@ -54,7 +48,7 @@
 
 ## 📂 Featured Projects
 ### 🔥 **Web Project**
-- Giao diện web bằng HTML / CSS  
+- Web bán hoa bằng HTML / CSS  
 - Repo: https://github.com/thenhana2910/Web
 
 ---
