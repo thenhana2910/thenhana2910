@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm <strong>Thế Nhân</strong></h1>
-<h3 align="center">🚀 Developer trẻ – đang xây dựng kỹ năng từng ngày</h3>
+<h3 align="center">🚀 Developer trẻ – đang học viết code</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=thenhana2910&style=for-the-badge" />
@@ -28,16 +28,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 </p>
-
----
-
-## 📊 GitHub Stats (Dark)
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=thenhana2910&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenhana2910&layout=compact&theme=tokyonight" />
-</div>
-
----
 
 ## 🚀 Contribution Snake (Dark)
 <p align="center">
