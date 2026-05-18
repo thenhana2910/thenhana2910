@@ -13,7 +13,8 @@
   - Visual Studio Code  
   - Visual Studio 2022  
   - SQL Server 2022  
-  - Git & GitHub  
+  - Git & GitHub
+  - Android Studio 
   - Discord (API / Bots / Automation)
 - ⚡ Kinh nghiệm chưa nhiều nhưng **đủ để sử dụng và tiếp tục phát triển**
 - 🎯 Mong muốn trở thành một **Developer chuyên nghiệp**
