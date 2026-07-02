@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm <strong>Thế Nhân</strong></h1>
-<h3 align="center">🚀 Developer trẻ – đang học viết code</h3>
+<h3 align="center">🚀 Non-Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=thenhana2910&style=for-the-badge" />
